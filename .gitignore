@@ -1,0 +1,6 @@
+*
+!.gitignore
+!assetmonitor.py
+!README.md
+!Dockerfile
+!requirements.txt
